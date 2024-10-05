@@ -1,2 +1,3 @@
-# Projeto-Site
- Projeto criado em aula de Git e GitHub
+# Projeto Site
+
+ Projeto criado em aula de Git e GitHub!
